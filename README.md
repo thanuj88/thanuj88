@@ -9,16 +9,12 @@ I design and ship enterprise web apps: scalable APIs, modern frontends, and clou
 [![Node.js](https://img.shields.io/badge/Node.js-Express-339933?logo=nodedotjs&logoColor=white)](https://github.com/thanuj88?tab=repositories&q=&type=&language=javascript)
 [![AWS](https://img.shields.io/badge/AWS-CDK_Lambda_DynamoDB-FF9900?logo=amazonwebservices&logoColor=white)](https://github.com/thanuj88)
 
----
-
 ## About
 
 - 13+ years building backend systems, REST APIs, and web UIs
 - Spring Boot, Angular, React, Node.js, DynamoDB, MySQL, PostgreSQL
 - AWS (CDK, Lambda, API Gateway, Cognito, S3)
 - Technical leadership, architecture, and AI-assisted development
-
----
 
 ## Projects
 
@@ -55,25 +51,6 @@ Angular client and Node API for court / ground booking (RCU tennis).
 | --- | --- |
 | [monthly-bank-statement-service](https://github.com/thanuj88/monthly-bank-statement-service) | Spring Boot (hexagonal) service that classifies bank transactions from CMS rules and posts a monthly income/spend summary. |
 
----
-
-## Suggested GitHub About lines
-
-Copy these into each repo **About** box on GitHub (Settings → General → Description):
-
-| Repo | Description |
-| --- | --- |
-| `smart-erp-frontend` | React POS and admin UI for POSBright: inventory, cash/installment sales, customer CRM, and multi-language store ops. |
-| `smart-erp-backend` | Node.js + DynamoDB API for POSBright: multi-tenant POS, inventory, installment credit, and role-based auth. |
-| `d2-diagram-frontend` | React + TypeScript editor for D2/UML diagrams with Cognito auth and live SVG preview. |
-| `d2-diagram-backend` | AWS CDK backend for the D2 diagram editor: Lambda, API Gateway, DynamoDB, S3, and D2 rendering. |
-| `rocoten` | Angular app for tennis / ground reservation, calendars, and booking workflows. |
-| `rocoten_server` | Express backend for Rocoten reservations: bookings API, MySQL, and notifications. |
-| `monthly-bank-statement-service` | Spring Boot service that classifies bank transactions and builds monthly financial summaries. |
-| `thanuj88` | GitHub profile README. |
-
----
-
 ## Stack
 
 **Languages:** Java, TypeScript, JavaScript, SQL  
@@ -82,7 +59,5 @@ Copy these into each repo **About** box on GitHub (Settings → General → Desc
 **Cloud:** AWS CDK, Lambda, API Gateway, Cognito, S3, DynamoDB  
 **Data:** MySQL, PostgreSQL, MongoDB, DynamoDB  
 **Auth:** JWT, OAuth2, Cognito
-
----
 
 <p align="center">Helsinki · Atlink Communications Inc · <a href="https://github.com/thanuj88">github.com/thanuj88</a></p>
