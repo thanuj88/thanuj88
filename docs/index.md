@@ -3,10 +3,6 @@ layout: default
 title: Thanuj Igalawithana
 ---
 
-# Thanuj Igalawithana
-
-**Lead Full-Stack Engineer** · Helsinki · Java · Angular · TypeScript · Node.js · AWS
-
 I design and ship enterprise web apps: scalable APIs, modern frontends, and cloud-native delivery. Lately that includes multi-tenant POS, diagram tooling on AWS, and AI-assisted engineering.
 
 [![Java](https://img.shields.io/badge/Java-Spring_Boot-ED8B00?logo=openjdk&logoColor=white)](https://github.com/thanuj88?tab=repositories&q=&type=&language=java)
